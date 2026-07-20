@@ -1,0 +1,37 @@
+{
+  "sources": {
+    ".raw/・医薬品等の承認又は許可等に係る申請等における電磁的記録及び電子署名の利用について(◆平成17年04月01日薬食発第401022号).md": {
+      "hash": "8c98f34fe92813f28da2ecd319d95a05",
+      "ingested_at": "2026-04-22",
+      "pages_created": [
+        "wiki/guidelines/薬食発第0401022号-電磁的記録電子署名通知.md",
+        "wiki/concepts/電磁的記録.md",
+        "wiki/concepts/電子署名-規制要件.md",
+        "wiki/entities/厚生労働省.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/申請・承認プロセス.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/000272151.pdf": {
+      "hash": "0c88675d42bb8743b3c51b750211110f",
+      "ingested_at": "2026-04-22",
+      "pages_created": [
+        "wiki/guidelines/ICH-E6-R3-Annex2.md",
+        "wiki/concepts/分散型臨床試験.md",
+        "wiki/concepts/リアルワールドデータ.md",
+        "wiki/concepts/デジタルヘルステクノロジー.md"
+      ],
+      "pages_updated": [
+        "wiki/domains/GCP・倫理.md",
+        "wiki/entities/ICH.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    }
+  }
+}

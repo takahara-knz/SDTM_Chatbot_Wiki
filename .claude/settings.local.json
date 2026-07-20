@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin *)",
+      "Bash(claude mcp *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(pip list *)",
+      "Bash(pip3 list *)",
+      "Bash(python -c \"import subprocess; result=subprocess.run\\(['pdftotext','-v'],capture_output=True\\); print\\(result.stderr.decode\\(\\)\\)\")",
+      "Bash(where pdftotext *)",
+      "Bash(pdftotext \"D:/Apps/LLM-Wiki/llm-wiki/.raw/000272151.pdf\" -)"
+    ]
+  }
+}
